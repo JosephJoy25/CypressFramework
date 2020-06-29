@@ -1,0 +1,9 @@
+{
+  "defaultCommandTimeout": 8000,
+  "pageLoadTimeout": 80000,
+  "reporter": "mochawesome",
+  "env": {
+    "url": "https://www.lyit.ie/"
+  },
+  "projectId": "a5zbka"
+}
